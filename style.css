@@ -66,27 +66,18 @@
   }
   .btn{
     padding: 0.5em 1em;
-    color:white;
+    color:rgb(255, 255, 255);
     font-weight: 500 ;
     letter-spacing: 1px;
     border-radius: 0.5em;
     font-size: 1.1em;
-    border: 2px solid white;
+    border: 2px solid rgb(255, 255, 255);
     cursor: pointer;
     transition: 0.3s ease-in-out;
   }
   
-  .btn{
-    padding: 0.5em 1em;
-    color:rgb(0, 0, 0);
-    font-weight: 500 ;
-    letter-spacing: 1px;
-    border-radius: 0.5em;
-    font-size: 1.1em;
-    border: 2px solid white;
-    cursor: pointer;
-    transition: 0.3s ease-in-out;
-  }
+  
+   
   
   .btn:hover{
     background-color: white;
@@ -347,7 +338,18 @@
   form input:focus{
     background-color: rgb(229, 229, 229);
   }
-  
+
+  .btn2{
+    padding: 0.5em 1em;
+    color:rgb(0, 0, 0);
+    font-weight: 500 ;
+    letter-spacing: 1px;
+    border-radius: 0.5em;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+  }
+
   /*footer*/
   
   footer{
