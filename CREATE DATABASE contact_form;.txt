@@ -1,6 +1,6 @@
-CREATE DATABASE contact_system;
+CREATE DATABASE contact_form;
 
-USE contact_system;
+USE contact_form;
 
 CREATE TABLE contacts (
     id INT AUTO_INCREMENT PRIMARY KEY,
